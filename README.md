@@ -7,7 +7,7 @@
 
 This repository contains the UI/UX design for the **Living** application, created using Figma. The design showcases a travel-based application that offers an intuitive and engaging interface for users to explore, book trips, and manage their travel preferences.
 
-LINK (https://www.figma.com/proto/G21bjl6YmcOowy3Nh8wWdD/tourism-protoype?node-id=0-1&t=WOpBxOIFvccj61sC-1)
+Prototype link -(https://www.figma.com/proto/G21bjl6YmcOowy3Nh8wWdD/tourism-protoype?node-id=0-1&t=WOpBxOIFvccj61sC-1)
 
 ## Features
 
